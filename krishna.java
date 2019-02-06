@@ -8,8 +8,11 @@ import java.io.*;
 class Ideone
 {
 	public static void main (String[] args) throws java.lang.Exception
-	{
-		int a=0;
+	{ 
+		Scanner s=new Scanner(System.in);
+		
+		int a;
+		a=v.nextInt()
 		if(a==0)
 		{
 			
